@@ -1,0 +1,50 @@
+{"title":"1.- ¿Por qué DCX ? Invitado Especial : Entrevista a Ivan Paycheks ",
+"url":"https://golive.im/previous/video/9316033/216217306"
+},
+{"title":"2.- El inicio de Todo ",
+"url":"https://golive.im/previous/video/9316033/216260330"
+},
+{"title":"3.- ¿Qué tipo de Inversionista eres? ",
+"url":"https://golive.im/previous/video/9316033/216342864"
+},
+{"title":"4.- Diferencias y herramientas para operar: Mt4 / Quantfury/ Exchange ",
+"url":"https://golive.im/previous/video/9316033/216609672"
+},
+{"title":"5.- Scalper y Harmonics Scanner Estrategias para ganar ",
+"url":"https://golive.im/previous/video/9316033/216665912"
+},
+{"title":"6.- Qué es Binance y Cómo crear tu  Portafolio  ",
+"url":"https://golive.im/previous/video/9316033/216760298"
+},
+{"title":"7.- Introducción a Futuros (con Kevin Barquero) ",
+"url":"https://golive.im/previous/video/9316033/216817648"
+},
+{"title":"8.- Todo sobre XRP junto a Nick Gómez en Entrevista ",
+"url":"https://golive.im/previous/video/9316033/217003814"
+},
+{"title":"9.- Análisis Técnico I ",
+"url":"https://golive.im/previous/video/9316033/217283938"
+},
+{"title":"10.- Análisis Técnico II  (S y R) ",
+"url":"https://golive.im/previous/video/9316033/217327300 "
+},
+{"title":"11.- Análisis Técnico III Geometría del Mercado ",
+"url":"https://golive.im/previous/video/9316033/217714564"
+},
+{"title":"12.- Psicología del Trader (10 Errores) ",
+"url":"https://golive.im/previous/video/9316033/217419129 "
+},
+{"title":"13.- Psicotrading ",
+"url":"https://golive.im/previous/video/9316033/217590121"
+},
+{"title":"14.- ¿Por qué Cardano es Cardano? ",
+"url":"https://golive.im/previous/video/9316033/218188142"
+},
+{"title":"15.- Ciclo Emocional del ;Mercado y Hodl ",
+"url":"https://golive.im/previous/video/9316033/218229484"
+},
+{"title":"16.- Gestiona Tu Plan de Trading ",
+"url":"https://golive.im/previous/video/9316033/218331148"
+},
+{"title":"17.- ¿Qué Son las Defi y Por qué aumenta "url":"su capitalización? ","
+https://golive.im/previous/video/9316033/218489862"}

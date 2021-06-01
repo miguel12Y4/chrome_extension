@@ -1,0 +1,11 @@
+{
+    "manifest_version": 2,
+    "name": "My Extension",
+    "version": "1.0",
+    "content_scripts": [
+        {
+          "matches": ["*://*.youtube.com/watch?*", "https://golive.im/*"],
+          "js": ["content.js"]
+        }
+    ]
+}
